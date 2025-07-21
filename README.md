@@ -45,7 +45,6 @@ This project uses LangChain Runnables to classify customer emails and generate a
 
     ```
 
-    *(Note: You'll need to create a `requirements.txt` file based on the `app.py` imports. It should include `langchain`, `python-dotenv`, `streamlit`, `langchain-core`, `pydantic`, `langchain-groq`.)*
 
 4.  **Set up API Keys**:
     Create a `.env` file in the root directory of your project and add your Groq API key:
