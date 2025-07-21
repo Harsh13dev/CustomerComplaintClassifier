@@ -74,6 +74,9 @@ This project uses LangChain Runnables to classify customer emails and generate a
 
 * `.env`: (Not committed) Stores API keys.
 
-## Example Screenshots (Optional)
+## Screenshots 
 
-You could add screenshots of the Streamlit interface here to make the README more visually appealing.
+<img width="1917" height="760" alt="image" src="https://github.com/user-attachments/assets/1c55c0f1-5a61-4c4b-bcf3-74c1260d9b47" />
+<img width="1430" height="692" alt="image" src="https://github.com/user-attachments/assets/77c70b3b-71a6-4a76-a86f-8b03c037d577" />
+<img width="1582" height="906" alt="image" src="https://github.com/user-attachments/assets/9bef9806-8094-4706-8aac-b609aa762d1f" />
+
